@@ -37,7 +37,7 @@ My name is Jaidon.
 My name is Vanessa
 My name is Deron
 My name is Vanessa
-My name is Keamber Pearson and Im the coolest.
+My name is Keamber Pearson and Im second the coolest.
 My name is Ethan.
 My name is Michael H.
 My name is Kenny.
