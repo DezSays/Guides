@@ -15,7 +15,7 @@ Contributions to the repository are welcome. If you have a guide you would like 
 3. Add your guide to the repository, making sure to follow the existing structure.
 4. Submit a pull request, and your guide will be reviewed for inclusion.
 
-## License:
+## Li cense:
 The content in this repository is licensed under the [MIT License](https://github.com/DezSays/Guides/blob/main/LICENSE). Feel free to use and modify the guides according to your needs.
 
 Please note that while the guides aim to provide accurate and up-to-date information, it is always recommended to refer to official documentation and resources for the coding tools and technologies mentioned.
@@ -24,6 +24,9 @@ Please note that while the guides aim to provide accurate and up-to-date informa
 
 My name is zach and i am contribuating to this
 My name is Santiago. Have the best day!
+My name is Ursula Still.
+Hi my name's Hien
+My name is Nicolas Badila.
 My name is John. 
 My name is Dujuanye
 
