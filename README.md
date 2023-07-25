@@ -31,6 +31,8 @@ Hi my name's Hien
 My name is Nicolas Badila.
 My name is John. 
 My name is Dujuanye
+My name is Deron
+My name is Vanessa
 My name is Keamber Pearson and Im the coolest.
 My name is Ethan.
 My name is Dujuanye
@@ -42,5 +44,6 @@ My name is Kenny.
 James(Panda)
 My name is Jordan
 Hi, I am Tony!
-My name is Vanessa
+
+
 
