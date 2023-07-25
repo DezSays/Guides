@@ -22,28 +22,3 @@ The content in this repository is licensed under the [MIT License](https://githu
 Please note that while the guides aim to provide accurate and up-to-date information, it is always recommended to refer to official documentation and resources for the coding tools and technologies mentioned.
 My name is zach and i am contribuating to this
 
-My name is Santiago. Have the best day!
-
-My name is John. 
-<<<<<<< HEAD
-
-=======
-My name is Zoe.
-My name is Ursula Still.
-Hi my name's Hien
-My name is Nicolas Badila. 
-My name is Dujuanye
-My name is Jaidon.
-My name is Vanessa
-My name is Deron
-My name is Vanessa
-My name is Keamber Pearson and Im the coolest.
-My name is Ethan.
-My name is Michael H.
-My name is Kenny.
-James(Panda)
-My name is Jordan
-Hi, I am Tony!!
-My name is Anthony
-Hi my name is Sababu
-
