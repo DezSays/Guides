@@ -1,3 +1,4 @@
+
 # Guides
 
 ## Description:
@@ -32,3 +33,17 @@ My name is John.
 My name is Dujuanye
 My name is Deron
 My name is Vanessa
+My name is Keamber Pearson and Im the coolest.
+My name is Ethan.
+My name is Dujuanye
+My name is Michael H.
+My name is Ethan.
+My name is Dujuanye
+James(Panda)
+My name is Kenny.
+James(Panda)
+My name is Jordan
+Hi, I am Tony!
+
+
+
