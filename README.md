@@ -27,3 +27,6 @@ My name is Santiago. Have the best day!
 My name is John. 
 My name is Dujuanye
 My name is Keamber Pearson and Im the coolest.
+My name is Ethan.
+My name is Dujuanye
+
