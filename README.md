@@ -21,4 +21,9 @@ The content in this repository is licensed under the [MIT License](https://githu
 Please note that while the guides aim to provide accurate and up-to-date information, it is always recommended to refer to official documentation and resources for the coding tools and technologies mentioned.
 
 
-My name is zach and i am contribuating to thisDujuanye'
+
+My name is zach and i am contribuating to this
+My name is Santiago. Have the best day!
+My name is John. 
+My name is Dujuanye
+
