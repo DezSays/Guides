@@ -395,5 +395,3 @@ To continue learning about Sass, here are some recommended resources:
 - [Sass Guidelines](https://sass-guidelin.es/): A comprehensive set of best practices and guidelines for writing Sass.
 - [Sassmeister](https://www.sassmeister.com/): An online Sass playground where you can experiment and test your Sass code.
 - [Sass in the Real World](https://www.youtube.com/watch?v=fbVD32w1oTo): A talk by Chris Coyier covering advanced Sass techniques and best practices. This is an older video, but the content is still very useful.
-
-With this detailed guide and the available resources, you'll be equipped to dive into Sass and harness its power to write more maintainable and efficient stylesheets. Happy coding!
