@@ -530,6 +530,3 @@ console.log(`The product is ${product} and the quotient is ${quotient}.`);
 
 Additional Resources:
 - [TypeScript - Modules](https://www.typescriptlang.org/docs/handbook/modules.html)
-
-
-This covers a more in-depth explanation of TypeScript's core concepts. Remember to consult the official TypeScript documentation for more detailed information and examples as you continue your journey with TypeScript. Happy coding!
